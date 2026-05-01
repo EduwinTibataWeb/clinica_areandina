@@ -6,7 +6,7 @@ pacientes, médicos y citas médicas.
 ## 🚀 Instalación
 
 ``` bash
-git clone https://github.com/TU-USUARIO/clinica-app.git
+git clone https://github.com/EduwinTibataWeb/clinica_areandina.git
 cd clinica-app
 composer install
 npm install
