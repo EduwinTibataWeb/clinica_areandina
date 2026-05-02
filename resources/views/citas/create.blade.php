@@ -331,8 +331,8 @@
                                 Pendiente
                             </option>
 
-                            <option value="confirmada">
-                                Confirmada
+                            <option value="completada">
+                                Completada
                             </option>
 
                             <option value="cancelada">
